@@ -35,10 +35,6 @@
     </div>
 </body>
 <style>
-    .loading {
-        background: transparent url('https://c.tenor.com/5o2p0tH5LFQAAAAj/hug.gif') center no-repeat;
-    }
-
     table.dataTable>tbody>tr.child ul.dtr-details>li {
         border-bottom: none;
         padding: .5em 0;
@@ -47,6 +43,7 @@
     .address {
         display: flex;
     }
+
 
     .cssload-loader {
         position: relative;
@@ -302,19 +299,19 @@
                         city = json.Data[i].Shipping_City != null ? json.Data[i].Shipping_City + "," : "";
                         street = json.Data[i].Shipping_Street != null ? json.Data[i].Shipping_Street : "";
                         description = json.Data[i].Description != null ? json.Data[i].Description : `N/A `;
-                        website = json.Data[i].Website ? `<a onmouseover="websitePreview(this)" href='${json.Data[i].Website}' target='_blank'><i class="las la-globe la-2x"></i></a>` : "";
-                        email = json.Data[i].Email ? `<a href='mailto:${json.Data[i].Email}'><i class="las la-at la-2x"></i></a>` : "";
+                        website = json.Data[i].Website ? `<a href='${json.Data[i].Website}' target='_blank' data-toggle='tooltip' data-placement='top' title=${json.Data[i].Website}><i class="las la-globe la-2x"></i></a>` : "";
+                        email = json.Data[i].Email ? `<a href='mailto:${json.Data[i].Email}' data-toggle='tooltip' data-placement='top' title=${json.Data[i].Email}><i class="las la-at la-2x"></i></a>` : "";
                         province = json.Data[i].Shipping_State ? json.Data[i].Shipping_State : "";
-                        phone = json.Data[i].Phone ? `<a href='tel:${json.Data[i].Phone}'><i class="las la-phone la-2x"></i></a>` : "";
+                        phone = json.Data[i].Phone ? `<a href='tel:${json.Data[i].Phone}' data-toggle="tooltip" data-placement="top" title="${json.Data[i].Phone}"><i class="las la-phone la-2x"></i></a>` : "";
                         memberShipLevel = json.Data[i].MemberShipLevel ? json.Data[i].MemberShipLevel : "";
                         let googleMapsURL = `https://www.google.com/maps/search/?api=1&query=${json.Data[i].Account_Name}+${street}+${city}`
-
-                        googleMap = `<a href='${googleMapsURL}' target='_blank'><i class="las la-directions la-2x"></i></i></a>`
+                        shopping = json.Data[i].Shopping ? '<a href="3"><i class="las la-shopping-cart la-2x"></i></a>' : ""
 
                         let addressNotFormatted = `<address>${street}   <br/>
                                                     ${city} ${json.Data[i].Shipping_State}<br/>
                                                    ${json.Data[i].Shipping_Code}
                                                    </address>`
+                        googleMap = `<a href='${googleMapsURL}' data-toggle='tooltip' html='true' data-placement='top' title='${street} ${city} ${json.Data[i].Shipping_State}' target='_blank'><i class="las la-directions la-2x"></i></i></a>`
 
 
                         // `<div class='container'>${street} ${json.Data[i].Shipping_State} ${city}<br/> ${json.Data[i].Shipping_Code}</div>`
@@ -331,18 +328,21 @@
                                     ${email}
                                     ${phone}
                                     ${googleMap}
+                                    ${shopping}
                                 </div>                                                 
                                 </div>
                                 </div>
                         </address>`;
                         return_data.push({
                             companyName: address,
-                            industry: json.Data[i].Directory_Category ? json.Data[i].Directory_Category : "N/A",
+                            category: json.Data[i].Directory_Category ? json.Data[i].Directory_Category : "N/A",
                             description: description,
                             city: json.Data[i].Shipping_City != null ? json.Data[i].Shipping_City : "",
                             addressNotFormatted: addressNotFormatted,
-                            memberShipLevel: memberShipLevel
-
+                            memberShipLevel: memberShipLevel,
+                            categories: json.Data[i].Directory_Categories,
+                            phone: json.Data[i].Phone ? `<a href='tel:${json.Data[i].Phone}'>${json.Data[i].Phone}</a>` : "",
+                            additionalInformation: json.Data[i].Additional_Information ? json.Data[i].Additional_Information : ""
                         });
                     }
                     return return_data
@@ -358,17 +358,21 @@
             columns: [
                 {
                     className: 'details-control',
-                    orderable: false,
+
                     data: null,
                     defaultContent: '',
-                    width: "20%"
+                    width: "20%",
+                    ordering: false
                 },
                 { title: "Business", width: "80%", data: "companyName" },
-                { title: "Industry", data: "industry", class: 'none' },
+                { title: "Category", data: "category", class: 'none' },
                 { title: "Description", data: "description", class: 'none' },
                 { title: "City", data: "city", class: 'none' },
                 { title: "Address", data: 'addressNotFormatted', class: 'none address' },
-                { title: "Membership Level", data: 'memberShipLevel', class: 'none address' }
+                { title: "Membership Level", data: 'memberShipLevel', class: 'none address' },
+                { title: "Tags", data: 'categories', class: 'none address' },
+                { title: "Phone", data: 'phone', class: 'none address' },
+                { title: "Additional Information", data: 'additionalInformation', class: 'none' }
 
             ],
             buttons: {
@@ -379,8 +383,11 @@
                     }
                 },
 
+            }, searchPanes: {
+                order: ['City', 'Category', 'Tags']
             },
             columnDefs: [
+                { orderable: false, targets: 0 },
                 {
                     searchPanes: {
                         show: false
@@ -399,6 +406,21 @@
                     },
                     visible: false,
                     targets: [4]
+                },
+                {
+                    searchPanes: {
+                        show: true
+                    },
+                    visible: false,
+                    targets: [7]
+                }
+                ,
+                {
+                    searchPanes: {
+                        show: false
+                    },
+                    visible: false,
+                    targets: [6]
                 }
             ],
         });
