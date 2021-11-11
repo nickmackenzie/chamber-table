@@ -5153,7 +5153,9 @@
       "Shipping_Country": "Canada",
       "Shipping_State": "Ontario",
       "About": "This section can be shown based on their membership level",
-      "MemberShipLevel": "Leadership"
+      "MemberShipLevel": "Leadership",
+      "Shopping": true,
+      "Additional_Information": "This is where additional information would go"
     }
   ]
 }
