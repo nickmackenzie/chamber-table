@@ -3,6 +3,77 @@
   "Message": "Entity Created4158003000001121018",
   "Data": [
     {
+      "id": 4158003000016458003,
+      "Website": "https://www.ssji.ca/",
+      "Account_Name": "South Shore Joint Initiative",
+      "Directory_Category": "Play",
+      "Directory_Categories": ["Education", "Recreation"],
+      "Phone": "613-393-2917",
+      "Email": "john.hirsch2@outlook.com",
+      "Logo_URL": "southshore.png",
+      "Shipping_Street": "2084 County Rd. 1",
+      "Shipping_City": "Bloomfield",
+      "Shipping_Code": "K0K1G0",
+      "Shipping_Country": "Canada",
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
+    },
+    {
+      "id": 4158003000016313001,
+      "Website": "https://www.theshepherdgroup.ca/",
+      "Account_Name": "The Shepherd Group",
+      "Directory_Category": "County Services",
+      "Directory_Categories": ["Insurance Services"],
+      "Phone": "647-405-4033",
+      "Email": "neil@theshepherdgroup.ca",
+      "Logo_URL": "ShepardGroup.PNG",
+      "Shipping_Street": "9-140 Wendell Ave",
+      "Shipping_City": "Toronto",
+      "Shipping_Code": "M9N 3R2",
+      "Shipping_Country": "Canada",
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
+    },
+    {
+      "id": 4158003000016291006,
+      "Website": "https://www.nomadcre8tive.com/",
+      "Account_Name": "Nomad Cre8tive",
+      "Directory_Category": "County Services",
+      "Directory_Categories": [
+        "Branding",
+        "Content Creation",
+        "Digital Marketing",
+        "Graphic Design",
+        "Social Media",
+        "Website Design"
+      ],
+      "Phone": "514-928-1783",
+      "Email": "hello@nomadcre8tive.com",
+      "Facebook": "https://www.facebook.com/nomadcre8tive/",
+      "LinkedIn": "https://ca.linkedin.com/company/nomad-cre8tive",
+      "Logo_URL": "nomad1.jpg",
+      "Description": "Alyssa is already a member of the QW Chamber and is involved in their Shop Local campaign. She is interested in signing up for the PEC Chamber mainly because of the the tourism businesses who may be interested in the \"Instagramable\" feel of her products and service. She is also interested in offering workshops and webinars to our members.",
+      "Shipping_Street": "Quinte West, Ontario",
+      "Membership_Type": "Regular Chamber Membership"
+    },
+    {
+      "id": 4158003000016288003,
+      "Website": "https://www.facebook.com/lohafarms/",
+      "Account_Name": "127 Bees",
+      "Directory_Category": "Shop Local",
+      "Directory_Categories": ["Agr & Food", "Food", "natural food", "organic"],
+      "Phone": "613-827-5754",
+      "Email": "127bees@gmail.com",
+      "Instagram": "https://www.instagram.com/127bees/?hl=en",
+      "Logo_URL": "127Bees.PNG",
+      "Shipping_Street": "153 Lucks Crossroad",
+      "Shipping_City": "Picton",
+      "Shipping_Code": "K0K2T0",
+      "Shipping_Country": "Canada",
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
+    },
+    {
       "id": 4158003000016270009,
       "Website": "https://shorehillpec.com/",
       "Account_Name": "Shorehill on Picton Bay",
@@ -13,11 +84,13 @@
       ],
       "Phone": "(647) 239-0444",
       "Email": "john@shorehillpec.com",
+      "Logo_URL": "Shorehill.PNG",
       "Shipping_Street": "44 Cedar Lane",
       "Shipping_City": "Picton",
       "Shipping_Code": "K0k 1A0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000014782001,
@@ -34,7 +107,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000014609015,
@@ -50,7 +124,8 @@
       "Shipping_City": "newburgh",
       "Shipping_Code": "K0K 2S0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000014566006,
@@ -66,7 +141,8 @@
       "Shipping_City": "Prince Edward",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000014566001,
@@ -78,12 +154,13 @@
       "Email": "david@countycasualtours.com",
       "Facebook": "https://www.facebook.com/countycasualtours/",
       "Instagram": "https://www.instagram.com/countycasualtours/",
-      "Logo_URL": "casual.png",
+      "Logo_URL": "casual.PNG",
       "Shipping_Street": "124 Gilead",
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "Rd.",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000014224001,
@@ -101,22 +178,25 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000014136006,
-      "Website": "http://michelehozer.com",
+      "Website": "www.thecuttingfactory.com",
       "Account_Name": "The Cutting Factory",
       "Directory_Category": "Shop Local",
       "Directory_Categories": ["Agr & Food", "Retail"],
       "Phone": "416-895-2221",
-      "Email": "michelehozer@gmail.com",
+      "Email": "michele@thecuttingfactory.com",
+      "Instagram": "https://www.instagram.com/thecuttingfactory/",
       "Logo_URL": "cutting.png",
       "Shipping_Street": "3256, County Road 8, Picton",
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000013905001,
@@ -129,7 +209,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000013821003,
@@ -140,12 +221,13 @@
       "Phone": "647-992-4049",
       "Email": "info@thekalahome.com",
       "Instagram": "https://www.instagram.com/thekalahome/",
-      "Logo_URL": "kala.png",
+      "Logo_URL": "kala-1-.png",
       "Shipping_Street": "9 Talbot Street",
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000013109001,
@@ -159,7 +241,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "k0k2t0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012926004,
@@ -181,7 +264,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012828013,
@@ -210,7 +294,8 @@
       "Shipping_City": "Prince Edward",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012669007,
@@ -225,7 +310,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012455001,
@@ -240,7 +326,8 @@
       "Shipping_City": "QUINTE WEST",
       "Shipping_Code": "K8V 5P4",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012425001,
@@ -254,7 +341,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012311010,
@@ -271,7 +359,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 0A0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012257010,
@@ -287,7 +376,8 @@
       "Shipping_City": "Prince Edward",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012257003,
@@ -304,7 +394,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
     },
     {
       "id": 4158003000012072001,
@@ -323,7 +414,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012059016,
@@ -344,7 +436,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000012058001,
@@ -354,7 +447,8 @@
       "Directory_Categories": ["Accommodation"],
       "Phone": "(647) 410-8186",
       "Email": "simon.brightman@gmail.com",
-      "Logo_URL": "Bright.png"
+      "Logo_URL": "Bright.png",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000011905013,
@@ -369,7 +463,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000011748001,
@@ -386,7 +481,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8n1b5",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000011731001,
@@ -401,7 +497,8 @@
       "Shipping_City": "MIlford",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000011457001,
@@ -416,7 +513,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000011422003,
@@ -432,7 +530,8 @@
       "Shipping_City": "Thornhill",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000010730001,
@@ -449,7 +548,8 @@
       "Shipping_City": "Prince Edward County",
       "Shipping_Code": "K8N 4Z7",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000010723009,
@@ -467,7 +567,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000009829001,
@@ -483,7 +584,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000009653001,
@@ -502,7 +604,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000009357003,
@@ -519,7 +622,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000008948002,
@@ -535,7 +639,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000008837002,
@@ -552,7 +657,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000008296002,
@@ -564,7 +670,8 @@
       "Facebook": "https://www.facebook.com/mix97fm",
       "Instagram": "https://www.instagram.com/mix97radio/",
       "Twitter": "https://twitter.com/MIX97radio",
-      "Logo_URL": "mix.png"
+      "Logo_URL": "mix.png",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000007754001,
@@ -579,7 +686,8 @@
       "Shipping_Street": "305 Main St",
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000007077001,
@@ -600,7 +708,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000006454005,
@@ -614,7 +723,8 @@
       "Shipping_City": "Ottawa",
       "Shipping_Code": "K1B 4T9",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000006355011,
@@ -631,7 +741,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000006169022,
@@ -646,7 +757,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000006107008,
@@ -662,7 +774,8 @@
       "Shipping_City": "Roblin",
       "Shipping_Code": "K0K 2W0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000006107007,
@@ -677,7 +790,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000006107001,
@@ -694,7 +808,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000006092003,
@@ -711,7 +826,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000005749001,
@@ -727,7 +843,8 @@
       "Shipping_City": "Consecon",
       "Shipping_Code": "K0K1T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005743001,
@@ -742,7 +859,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005742053,
@@ -752,7 +870,8 @@
       "Directory_Categories": ["Accommodation"],
       "Email": "WoodhavenPEC@gmail.com",
       "Logo_URL": "woodhaven.jpg",
-      "Shipping_Street": "none"
+      "Shipping_Street": "none",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005718109,
@@ -766,7 +885,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Additional business (or Secondary business)"
     },
     {
       "id": 4158003000005702094,
@@ -782,7 +902,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005701001,
@@ -799,7 +920,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005682001,
@@ -814,7 +936,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005681002,
@@ -831,7 +954,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005662002,
@@ -850,7 +974,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N5B9",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
     },
     {
       "id": 4158003000005591011,
@@ -866,7 +991,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
     },
     {
       "id": 4158003000005572007,
@@ -880,7 +1006,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000005551005,
@@ -895,7 +1022,8 @@
       "Shipping_City": "Cherry Valley",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005548031,
@@ -910,7 +1038,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005466016,
@@ -931,7 +1060,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005382098,
@@ -945,7 +1075,8 @@
       "Shipping_City": "Prince Edward",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005314001,
@@ -962,7 +1093,8 @@
       "Shipping_City": "Ameliasburg",
       "Shipping_Code": "K0K 1A0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005259013,
@@ -976,7 +1108,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005194003,
@@ -992,7 +1125,8 @@
       "Shipping_City": "Milford",
       "Shipping_Code": "K0k2p0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005189002,
@@ -1010,7 +1144,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000005174001,
@@ -1031,7 +1166,8 @@
       "Shipping_City": "Carrying Place",
       "Shipping_Code": "K0K 1L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004921055,
@@ -1048,7 +1184,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000004508001,
@@ -1064,7 +1201,8 @@
       "Shipping_City": "Milford",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004501019,
@@ -1081,7 +1219,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000004482001,
@@ -1096,7 +1235,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004477001,
@@ -1111,7 +1251,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004386003,
@@ -1131,7 +1272,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000004355006,
@@ -1145,7 +1287,8 @@
       "Logo_URL": "lakecroft.png",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004319002,
@@ -1163,7 +1306,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004273054,
@@ -1179,7 +1323,8 @@
       "Shipping_City": "Consecon",
       "Shipping_Code": "K0K 1T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004221001,
@@ -1192,7 +1337,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000004073001,
@@ -1209,7 +1355,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000003924001,
@@ -1224,7 +1371,8 @@
       "Twitter": "https://twitter.com/gravelhillwine",
       "Logo_URL": "gravel.jpg",
       "Shipping_Street": "567 Closson Rd",
-      "Shipping_City": "Hillier"
+      "Shipping_City": "Hillier",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003858002,
@@ -1239,7 +1387,8 @@
       "Twitter": "https://twitter.com/955hitsfm",
       "Logo_URL": "955.png",
       "Shipping_Street": "497 Dundas Street West",
-      "Shipping_City": "Belleville"
+      "Shipping_City": "Belleville",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003854003,
@@ -1256,7 +1405,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003727011,
@@ -1267,11 +1417,13 @@
       "Email": "peter@psdgstrategy.com",
       "LinkedIn": "https://www.linkedin.com/company/psd-g-strategy-group/",
       "Twitter": "https://twitter.com/psdgstrategy",
+      "Logo_URL": "PSDGlogo.PNG",
       "Shipping_Street": "281 Heath ST E,",
       "Shipping_City": "Toronto",
       "Shipping_Code": "M4T 1T3",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003688001,
@@ -1285,7 +1437,8 @@
       "Twitter": "https://twitter.com/MAGRC_7thTown",
       "Logo_URL": "historical.jpg",
       "Shipping_Street": "528 County Rd. 19",
-      "Shipping_City": "Prince Edward"
+      "Shipping_City": "Prince Edward",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000003570001,
@@ -1299,7 +1452,8 @@
       "Instagram": "https://www.instagram.com/gillinghambrewing/?hl=en",
       "Logo_URL": "Gillingham.jpg",
       "Shipping_Street": "1316 Wilson Rd",
-      "Shipping_City": "Hillier"
+      "Shipping_City": "Hillier",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000003530001,
@@ -1313,7 +1467,8 @@
       "Logo_URL": "mason.jpg",
       "Description": "Furniture restoration, wood working, weaving, painting, small house projects contractors don’t want!\nCreators of all forms, original and one of a kind pieces that become what they are meant to be.",
       "Shipping_Street": "37 Paul St",
-      "Shipping_City": "Picton"
+      "Shipping_City": "Picton",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003483024,
@@ -1331,7 +1486,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
     },
     {
       "id": 4158003000003443034,
@@ -1350,7 +1506,8 @@
       "Shipping_City": "Port Carling",
       "Shipping_Code": "P0B 1J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003416002,
@@ -1364,7 +1521,8 @@
       "Twitter": "https://twitter.com/erbngreen?lang=en",
       "Logo_URL": "erbn.png",
       "Shipping_Street": "126 Main St W",
-      "Shipping_City": "Picton"
+      "Shipping_City": "Picton",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000003415002,
@@ -1378,7 +1536,8 @@
       "Instagram": "https://www.instagram.com/thecountyemporium/",
       "Logo_URL": "emporium.jpg",
       "Shipping_Street": "2522 County Road 64",
-      "Shipping_City": "Carrying Place"
+      "Shipping_City": "Carrying Place",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003358003,
@@ -1391,7 +1550,8 @@
       "Instagram": "https://www.instagram.com/vikinghaus",
       "Logo_URL": "viking.jpg",
       "Shipping_Street": "347 Prinyers Cove Cr.",
-      "Shipping_City": "Picton"
+      "Shipping_City": "Picton",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003264001,
@@ -1408,7 +1568,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000003228004,
@@ -1420,7 +1581,8 @@
       "Email": "cenan@tripian.com",
       "LinkedIn": "https://www.linkedin.com/company/tripian/",
       "Twitter": "https://twitter.com/wearetripian",
-      "Logo_URL": "tripian.png"
+      "Logo_URL": "tripian.png",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000003140022,
@@ -1434,7 +1596,8 @@
       "Instagram": "https://www.instagram.com/carsonsgardenmarket/?hl=en",
       "Logo_URL": "CARSON2.jpg",
       "Shipping_Street": "1317 Wilson Rd",
-      "Shipping_City": "Hillier"
+      "Shipping_City": "Hillier",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000003065056,
@@ -1451,7 +1614,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000002729001,
@@ -1466,7 +1630,8 @@
       "Shipping_City": "Consecon",
       "Shipping_Code": "K0K 1T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000002701001,
@@ -1483,7 +1648,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000002584001,
@@ -1500,7 +1666,8 @@
       "Shipping_City": "Consecon",
       "Shipping_Code": "K0K 1T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000002089037,
@@ -1517,7 +1684,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000001813079,
@@ -1531,7 +1699,8 @@
       "Instagram": "https://www.instagram.com/walkers_garage_official/?hl=en",
       "Logo_URL": "walkers.png",
       "Shipping_Street": "1955 Prince Edward County Rd 17",
-      "Shipping_City": "Milford"
+      "Shipping_City": "Milford",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001760001,
@@ -1545,7 +1714,8 @@
       "Instagram": "https://www.instagram.com/beaconbikebrew/?hl=en",
       "Logo_URL": "beacon.jpg",
       "Shipping_Street": "188 Main St,",
-      "Shipping_City": "Picon"
+      "Shipping_City": "Picon",
+      "Membership_Type": "Marketing Membership"
     },
     {
       "id": 4158003000001603001,
@@ -1558,7 +1728,8 @@
       "Facebook": "https://www.facebook.com/highendcarpenters/",
       "Logo_URL": "high.jpg",
       "Shipping_Street": "400 Front Street West Unit 4 PO Box 323",
-      "Shipping_City": "Stirling"
+      "Shipping_City": "Stirling",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001494209,
@@ -1571,7 +1742,8 @@
       "Facebook": "http://facebook.com/lipstickandlashesbycher",
       "Logo_URL": "lipstick.jpg",
       "Shipping_Street": "893 Danforth Road",
-      "Shipping_City": "Wellington"
+      "Shipping_City": "Wellington",
+      "Membership_Type": "Additional business (or Secondary business)"
     },
     {
       "id": 4158003000001447011,
@@ -1588,7 +1760,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "Ontario",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001297001,
@@ -1602,7 +1775,8 @@
       "Instagram": "https://www.instagram.com/curiousgoatgeneralstore/",
       "Logo_URL": "curious.jpg",
       "Shipping_Street": "1635 Old Milford Road",
-      "Shipping_City": "Milford"
+      "Shipping_City": "Milford",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169234,
@@ -1619,7 +1793,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169233,
@@ -1634,7 +1809,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Additional business (or Secondary business)"
     },
     {
       "id": 4158003000001169232,
@@ -1653,7 +1829,8 @@
       "Shipping_City": "Prince Edward",
       "Shipping_Code": "K8N 4Z7",
       "Shipping_Country": "Canada",
-      "Shipping_State": "ontario"
+      "Shipping_State": "ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169231,
@@ -1670,7 +1847,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169229,
@@ -1688,7 +1866,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169228,
@@ -1704,7 +1883,8 @@
       "Shipping_City": "Consecon",
       "Shipping_Code": "K0K 1T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169227,
@@ -1722,7 +1902,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169226,
@@ -1739,7 +1920,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169225,
@@ -1756,7 +1938,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000001169223,
@@ -1774,7 +1957,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169221,
@@ -1790,7 +1974,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169220,
@@ -1807,7 +1992,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169218,
@@ -1824,7 +2010,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169217,
@@ -1842,7 +2029,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169213,
@@ -1860,7 +2048,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169212,
@@ -1878,7 +2067,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169211,
@@ -1896,7 +2086,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 3L3",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000001169210,
@@ -1913,7 +2104,8 @@
       "Shipping_City": "Carrying Place",
       "Shipping_Code": "K0K1L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169209,
@@ -1931,7 +2123,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 4Z7",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169207,
@@ -1948,7 +2141,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Additional business (or Secondary business)"
     },
     {
       "id": 4158003000001169205,
@@ -1963,7 +2157,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169204,
@@ -1980,7 +2175,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000001169203,
@@ -1998,7 +2194,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169202,
@@ -2013,7 +2210,8 @@
       "Description": "Acupuncture and integrative health clinic",
       "Shipping_Street": "The Armoury 2L-206 Main St",
       "Shipping_City": "Picton",
-      "Shipping_Country": "Canada"
+      "Shipping_Country": "Canada",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169201,
@@ -2032,7 +2230,8 @@
       "Shipping_City": "Ameliasburgh",
       "Shipping_Code": "K8N4Z7",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169200,
@@ -2047,7 +2246,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169198,
@@ -2065,7 +2265,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169197,
@@ -2082,7 +2283,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 5S4",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000001169195,
@@ -2099,7 +2301,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360831,
@@ -2117,7 +2320,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360811,
@@ -2136,7 +2340,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360731,
@@ -2155,7 +2360,8 @@
       "Shipping_City": "Milford",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360691,
@@ -2173,7 +2379,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360671,
@@ -2192,7 +2399,8 @@
       "Shipping_City": "Cherry Valley",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360631,
@@ -2212,7 +2420,8 @@
       "Shipping_City": "Milford",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360591,
@@ -2229,7 +2438,8 @@
       "Shipping_City": "Demorestville",
       "Shipping_Code": "K0K 1W0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360571,
@@ -2246,7 +2456,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360531,
@@ -2264,7 +2475,8 @@
       "Shipping_City": "Milford",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360511,
@@ -2282,7 +2494,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360491,
@@ -2300,7 +2513,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360451,
@@ -2315,7 +2529,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360407,
@@ -2333,7 +2548,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360387,
@@ -2348,7 +2564,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360367,
@@ -2367,7 +2584,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360327,
@@ -2385,7 +2603,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360307,
@@ -2402,7 +2621,8 @@
       "Shipping_City": "Milford",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360287,
@@ -2420,7 +2640,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360267,
@@ -2437,7 +2658,8 @@
       "Shipping_City": "Carrying Place",
       "Shipping_Code": "K0K 1L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360227,
@@ -2457,7 +2679,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000360207,
@@ -2477,7 +2700,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360147,
@@ -2496,7 +2720,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360127,
@@ -2513,7 +2738,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360107,
@@ -2532,7 +2758,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360067,
@@ -2552,7 +2779,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000360047,
@@ -2571,7 +2799,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359967,
@@ -2589,7 +2818,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359947,
@@ -2607,7 +2837,8 @@
       "Shipping_Street": "27 McKnight Ln",
       "Shipping_City": "Bloomfield",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359927,
@@ -2626,7 +2857,8 @@
       "Shipping_City": "Cherry Valley",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359847,
@@ -2646,7 +2878,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359827,
@@ -2664,7 +2897,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359787,
@@ -2683,7 +2917,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359767,
@@ -2701,7 +2936,8 @@
       "Shipping_City": "Cherry Valley",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359747,
@@ -2719,7 +2955,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359687,
@@ -2736,7 +2973,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359667,
@@ -2756,7 +2994,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359647,
@@ -2773,7 +3012,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359607,
@@ -2789,7 +3029,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359587,
@@ -2805,7 +3046,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359547,
@@ -2823,7 +3065,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359527,
@@ -2841,7 +3084,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359458,
@@ -2860,7 +3104,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359394,
@@ -2879,7 +3124,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359374,
@@ -2896,7 +3142,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359354,
@@ -2913,7 +3160,8 @@
       "Shipping_City": "Carrying Place",
       "Shipping_Code": "K0K 1L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359334,
@@ -2929,7 +3177,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359294,
@@ -2946,7 +3195,8 @@
       "Shipping_City": "Stirling",
       "Shipping_Code": "K0K 3E0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359245,
@@ -2962,7 +3212,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0H 2H0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359225,
@@ -2981,7 +3232,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000359205,
@@ -3000,7 +3252,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359145,
@@ -3019,7 +3272,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359125,
@@ -3035,7 +3289,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359085,
@@ -3054,7 +3309,8 @@
       "Shipping_City": "Kingston",
       "Shipping_Code": "K7P 0E9",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359065,
@@ -3074,7 +3330,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000359025,
@@ -3090,7 +3347,8 @@
       "Shipping_City": "Cherry Valley",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358976,
@@ -3115,7 +3373,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358876,
@@ -3133,7 +3392,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358856,
@@ -3149,7 +3409,8 @@
       "Description": "We are a craft brewery and restaurant in Wellington.",
       "Shipping_Street": "266 Wellington Main St",
       "Shipping_City": "Wellington",
-      "Shipping_Country": "Canada"
+      "Shipping_Country": "Canada",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358836,
@@ -3166,7 +3427,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K TG0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358816,
@@ -3183,7 +3445,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358736,
@@ -3200,7 +3463,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 4Z2",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358656,
@@ -3218,7 +3482,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358616,
@@ -3236,7 +3501,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358556,
@@ -3254,7 +3520,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358476,
@@ -3273,7 +3540,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358456,
@@ -3290,7 +3558,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358436,
@@ -3309,7 +3578,8 @@
       "Shipping_City": "Kingston",
       "Shipping_Code": "K7L 1A6",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358372,
@@ -3328,7 +3598,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358352,
@@ -3346,7 +3617,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358332,
@@ -3365,7 +3637,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 4Z2",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358312,
@@ -3382,7 +3655,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358292,
@@ -3399,7 +3673,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358272,
@@ -3417,7 +3692,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358252,
@@ -3432,7 +3708,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358232,
@@ -3448,7 +3725,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358212,
@@ -3465,7 +3743,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358192,
@@ -3482,7 +3761,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358172,
@@ -3500,7 +3780,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358152,
@@ -3519,7 +3800,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358132,
@@ -3536,7 +3818,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358092,
@@ -3552,7 +3835,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358072,
@@ -3570,7 +3854,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 4Z1",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000358052,
@@ -3589,7 +3874,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8P 3Z3",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358032,
@@ -3605,7 +3891,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000358012,
@@ -3622,7 +3909,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357992,
@@ -3640,7 +3928,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8P 1A6",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357972,
@@ -3657,7 +3946,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000357932,
@@ -3674,7 +3964,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357912,
@@ -3692,7 +3983,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
     },
     {
       "id": 4158003000000357892,
@@ -3710,7 +4002,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357812,
@@ -3728,7 +4021,8 @@
       "Shipping_Street": "206 Main St, Unit 1C",
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K2T0",
-      "Shipping_State": "ON"
+      "Shipping_State": "ON",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357792,
@@ -3750,7 +4044,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357732,
@@ -3768,7 +4063,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357632,
@@ -3786,7 +4082,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357612,
@@ -3800,7 +4097,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357572,
@@ -3819,7 +4117,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Leadership Member"
     },
     {
       "id": 4158003000000357552,
@@ -3837,7 +4136,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K0K2C0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357532,
@@ -3855,7 +4155,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357512,
@@ -3874,7 +4175,8 @@
       "Shipping_City": "Ameliasburgh",
       "Shipping_Code": "K0K 1A0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357472,
@@ -3889,7 +4191,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357348,
@@ -3907,7 +4210,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 4Z1",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357328,
@@ -3926,7 +4230,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357308,
@@ -3941,7 +4246,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357288,
@@ -3957,7 +4263,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357228,
@@ -3973,7 +4280,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357208,
@@ -3989,7 +4297,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357188,
@@ -4006,7 +4315,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357168,
@@ -4020,7 +4330,8 @@
       "Shipping_City": "Cherry Valley",
       "Shipping_Code": "K0K 1P0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357148,
@@ -4038,7 +4349,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357108,
@@ -4056,7 +4368,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 5B3",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357088,
@@ -4073,7 +4386,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000357048,
@@ -4089,7 +4403,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356988,
@@ -4107,7 +4422,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356948,
@@ -4125,7 +4441,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356928,
@@ -4142,7 +4459,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356908,
@@ -4159,7 +4477,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356888,
@@ -4177,7 +4496,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356868,
@@ -4193,7 +4513,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356848,
@@ -4211,7 +4532,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356828,
@@ -4227,7 +4549,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Not-For-Profit"
     },
     {
       "id": 4158003000000356768,
@@ -4244,7 +4567,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356748,
@@ -4262,7 +4586,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356728,
@@ -4279,7 +4604,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356708,
@@ -4296,7 +4622,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N2Z9",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356688,
@@ -4311,7 +4638,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356668,
@@ -4327,7 +4655,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356648,
@@ -4346,7 +4675,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356628,
@@ -4365,7 +4695,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356588,
@@ -4391,7 +4722,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 4Z5",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356568,
@@ -4416,7 +4748,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356548,
@@ -4432,7 +4765,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356528,
@@ -4450,7 +4784,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 5A2",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356508,
@@ -4468,7 +4803,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356448,
@@ -4485,7 +4821,8 @@
       "Shipping_City": "Carrying Place",
       "Shipping_Code": "K0K 1L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356408,
@@ -4507,7 +4844,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356154,
@@ -4522,7 +4860,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356134,
@@ -4540,7 +4879,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356114,
@@ -4558,7 +4898,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356094,
@@ -4576,7 +4917,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356074,
@@ -4595,7 +4937,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356054,
@@ -4614,7 +4957,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356034,
@@ -4634,7 +4978,8 @@
       "Shipping_City": "BLOOMFIELD",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000356014,
@@ -4652,7 +4997,8 @@
       "Shipping_City": "HILLIER",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344994,
@@ -4670,7 +5016,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344974,
@@ -4685,7 +5032,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344934,
@@ -4703,7 +5051,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344894,
@@ -4721,7 +5070,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344874,
@@ -4738,7 +5088,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344854,
@@ -4757,7 +5108,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344834,
@@ -4775,7 +5127,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344794,
@@ -4793,7 +5146,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 2J0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344774,
@@ -4809,7 +5163,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344754,
@@ -4824,7 +5179,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344734,
@@ -4837,7 +5193,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344685,
@@ -4852,7 +5209,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344665,
@@ -4871,7 +5229,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344645,
@@ -4886,7 +5245,8 @@
       "Shipping_City": "Barrie",
       "Shipping_Code": "L4M 4V1",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344625,
@@ -4902,7 +5262,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344585,
@@ -4918,7 +5279,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344565,
@@ -4931,7 +5293,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Association"
     },
     {
       "id": 4158003000000344545,
@@ -4948,7 +5311,8 @@
       "Shipping_City": "PICTON",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344505,
@@ -4963,7 +5327,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344485,
@@ -4980,7 +5345,8 @@
       "Shipping_City": "Prince Edward",
       "Shipping_Code": "K0K2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344465,
@@ -4998,7 +5364,8 @@
       "Shipping_City": "Hillier",
       "Shipping_Code": "K0K 1T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344445,
@@ -5017,7 +5384,8 @@
       "Shipping_City": "Belleville",
       "Shipping_Code": "K8N 0L9",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344425,
@@ -5032,7 +5400,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344365,
@@ -5050,7 +5419,8 @@
       "Shipping_City": "Halifax",
       "Shipping_Code": "B3K5M3",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Nova Scotia"
+      "Shipping_State": "Nova Scotia",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344325,
@@ -5065,7 +5435,8 @@
       "Shipping_City": "Shannonville",
       "Shipping_Code": "K0K 3A0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344285,
@@ -5081,7 +5452,8 @@
       "Shipping_City": "Wellington",
       "Shipping_Code": "K0K 3L0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344225,
@@ -5098,7 +5470,8 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344205,
@@ -5115,7 +5488,8 @@
       "Shipping_City": "Bloomfield",
       "Shipping_Code": "K0K 1G0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000344185,
@@ -5131,14 +5505,20 @@
       "Shipping_City": "Picton",
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
-      "Shipping_State": "Ontario"
+      "Shipping_State": "Ontario",
+      "Membership_Type": "Regular Chamber Membership"
     },
     {
       "id": 4158003000000337003,
       "Website": "https://www.c3-solutions.ca/",
       "Account_Name": "C3 Solutions",
       "Directory_Category": "County Services",
-      "Directory_Categories": ["Business Service", "Technology/IT"],
+      "Directory_Categories": [
+        "Business Service",
+        "Content Creation",
+        "Technology/IT",
+        "Website Design"
+      ],
       "Phone": "(343) 263-6934",
       "Email": "david@c3-solutions.ca",
       "Facebook": "https://www.facebook.com/C3-Solutions-1922412517837162/",
@@ -5152,10 +5532,7 @@
       "Shipping_Code": "K0K 2T0",
       "Shipping_Country": "Canada",
       "Shipping_State": "Ontario",
-      "About": "This section can be shown based on their membership level",
-      "MemberShipLevel": "Leadership",
-      "Shopping": true,
-      "Additional_Information": "This is where additional information would go"
+      "Membership_Type": "Leadership Member"
     }
   ]
 }
